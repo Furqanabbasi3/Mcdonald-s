@@ -122,10 +122,17 @@ padding: 5px;
   height: 24px;
 
 }
+.fur{
+  width: 100%;
+  height: auto;
+  display: flex;
+  justify-content: end;
+}
 .fur img{
   width:200px;
   height: 100px;
-  margin-left:  1000px;
+  /* margin-left:  1000px; */
+  /* justify-content: flex-end; */
   
 }
 .footer-bottom {
